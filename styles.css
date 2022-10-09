@@ -17,3 +17,16 @@ h1 {
 h3 {
     color: darkcyan;
 }
+
+table.customTable {
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: grey;
+    border-style: solid;
+    color: #000000;
+}
+
+.content {
+    max-width: 510px;
+    margin: auto;
+}
