@@ -26,7 +26,7 @@ table.customTable {
     color: #000000;
 }
 
-.content {
+div {
     max-width: 510px;
     margin: auto;
 }
